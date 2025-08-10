@@ -32,9 +32,23 @@ Designed with content creators and digital hoarders in mind, PICorg goes beyond 
 - 🎨 Beautiful Python-based UI for Windows 10 & 11
 - 💡 Small size, portable, and **completely free to use**
 
-📣 **Your feedback shapes the roadmap!** Suggest features, report bugs, or contribute ideas right here on GitHub.
+
+<br>
+
+---
+
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app. Contributions and ideas from the community are greatly appreciated!
+
+**Raise a issue** >> https://github.com/anubhavyadav/caxuopicorg/issues
+
+
+<br>
+
+
+**To learn more, please visit** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
 
 
-**To learn more, please visit** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
+**Go to Download page** >> https://github.com/anubhavyadav/caxuopicorg/releases/tag/v1.0.2
+
