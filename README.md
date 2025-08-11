@@ -10,8 +10,9 @@
 
 ---
 <br>
+
 <p align="center">
-  <img width="408" height="312" alt="Caxuo PICorg Image Viewer and Organizer" src="[https://github.com/user-attachments/assets/318631ba-0b41-4e6d-83a6-14cccf7bc234](https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369)" />
+  <img width="921" height="675" alt="Caxuo PICorg Image Viewer and Organizer Home Screen" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
 </p>
 
 
