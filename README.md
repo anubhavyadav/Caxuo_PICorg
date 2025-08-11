@@ -1,20 +1,23 @@
 <p align="center">
   <img width="408" height="312" alt="Caxuo_PICorg_new_logo_01_real_full" src="https://github.com/user-attachments/assets/318631ba-0b41-4e6d-83a6-14cccf7bc234" />
 </p>
-
+<br>
 <h2 align="center">🖼️ Caxuo PICorg</h2>
-
+<br>
 <p align="center">
   <em>Smart, fast, and free image viewer + organizer — a better alternative to Windows Photos</em>
 </p>
-
+<br>
 ---
 <br>
-
+**Go to Download page** >> https://github.com/anubhavyadav/caxuopicorg/releases/tag/v1.0.2
+<br>
+---
+<br>
 <p align="center">
-  <img width="921" height="675" alt="Caxuo PICorg Image Viewer and Organizer Home Screen" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
+  <img width="460" height="337" alt="Caxuo PICorg Image Viewer and Organizer Home Screen" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
 </p>
-
+<br>
 
 
 **Caxuo PICorg** is a modern, lightweight image viewer and photo organizer built with:
@@ -23,7 +26,11 @@
 - ⚡ Fast performance even with large folders
 - 🗂️ Organize your images effortlessly — **native Photos app can’t do that!**
 
+<br>
+
 Designed with content creators and digital hoarders in mind, PICorg goes beyond just viewing: it helps you sort, group, and clean up your images visually and intuitively.
+
+<br>
 
 ### ✨ Features
 
@@ -42,14 +49,11 @@ Designed with content creators and digital hoarders in mind, PICorg goes beyond 
 
 **Raise a issue** >> https://github.com/anubhavyadav/caxuopicorg/issues
 
-
 <br>
-
 
 **To learn more, please visit** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
-
-
+<br>
 **Go to Download page** >> https://github.com/anubhavyadav/caxuopicorg/releases/tag/v1.0.2
-
+<br>
