@@ -1,22 +1,33 @@
 <p align="center">
   <img width="408" height="312" alt="Caxuo_PICorg_new_logo_01_real_full" src="https://github.com/user-attachments/assets/318631ba-0b41-4e6d-83a6-14cccf7bc234" />
 </p>
+
 <br>
+
 <h2 align="center">🖼️ Caxuo PICorg</h2>
+
 <br>
+
 <p align="center">
   <em>Smart, fast, and free image viewer + organizer — a better alternative to Windows Photos</em>
 </p>
-<br>
+
 ---
+
 <br>
+
 **Go to Download page** >> https://github.com/anubhavyadav/caxuopicorg/releases/tag/v1.0.2
+
 <br>
+
 ---
+
 <br>
+
 <p align="center">
   <img width="460" height="337" alt="Caxuo PICorg Image Viewer and Organizer Home Screen" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
 </p>
+
 <br>
 
 
