@@ -53,13 +53,12 @@ PICorg loads images almost instantly and gives you complete control over sorting
 
 ---
 
-📣 **We welcome your feedback and suggestions**  
-Contribute ideas, report issues, or request features on GitHub:
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.  
+Contributions and ideas from the community are greatly appreciated!
 
-👉 https://github.com/anubhavyadav/caxuopicorg/issues
+- **Raise an issue** >> https://github.com/anubhavyadav/caxuopicorg/issues  
+- **Learn more** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
-💬 Learn more:  
-https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
 
