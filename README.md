@@ -1,17 +1,16 @@
 <p align="center">
-  <img width="408" height="312" alt="Caxuo PICorg logo" src="https://github.com/user-attachments/assets/318631ba-0b41-4e6d-83a6-14cccf7bc234" />
+  <img width="200" alt="Caxuo PICorg App logo" src="https://github.com/user-attachments/assets/318631ba-0b41-4e6d-83a6-14cccf7bc234" />
 </p>
 
 <h2 align="center">🖼️ Caxuo PICorg for Windows</h2>
 
 <p align="center">
-  <em>Smart, fast, and free image viewer + organizer — a better alternative to Windows Photos</em>
+  <em>Fast and Free Image Viewer & Organizer — a better alternative to Windows Photos</em>
 </p>
 
 ---
 
-**⬇️ Go to Download page**  
-👉 https://github.com/anubhavyadav/caxuopicorg/releases/latest
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
 
 ---
 
@@ -53,14 +52,14 @@ PICorg loads images almost instantly and gives you complete control over sorting
 
 ---
 
-📣 **We welcome your feedback and suggestions** to help improve and evolve this app.  
-Contributions and ideas from the community are greatly appreciated!
+### ❤️ Community & Feedback
 
-- **Raise an issue** >> https://github.com/anubhavyadav/caxuopicorg/issues  
-- **Learn more** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.
 
+- **Raise an issue >>** https://github.com/anubhavyadav/Caxuo_PICorg/issues
+
+- **Learn more about all Caxuo Apps >>** https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
 
-**⬇️ Go to Download page**  
-👉 https://github.com/anubhavyadav/caxuopicorg/releases/latest
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
