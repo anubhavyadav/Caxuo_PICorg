@@ -10,45 +10,52 @@
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
+👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
 
 ---
 
-### 💡 About Caxuo PICorg
+### 💡 About Caxuo PICorg App
 
-**Caxuo PICorg** is a modern and portable image viewer built for **speed, simplicity, and freedom from bloatware**.  
-It helps you **view, manage, and organize photos** quickly — perfect for photographers, content creators, or anyone dealing with large image collections.
+**Caxuo PICorg** is a modern and portable Image Viewer and Organizer built to manage thousands of images on your computer in the Album Collection you wish quickly — perfect for photographers, content creators, or anyone dealing with large image collections.
 
 <p align="center">
-  <img width="460" height="337" alt="Caxuo PICorg App Home Screen" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
+  <img width="602" alt="Caxuo PICorg App Home Screen" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
 </p>
 
-PICorg loads images almost instantly and gives you complete control over sorting, renaming, and managing your visual library.
-
----
-
-### ⚙️ Built With
-- 🐍 Python (CustomTkinter, PIL)
-- ⚡ Lightweight GUI optimized for Windows 10 & 11
-- 🚫 No install, no ads, no data collection
-
----
-
 ### ✨ Key Features
-- 🔍 **Smooth image viewing** — scroll or use arrow keys for quick navigation  
-- 🧹 **Visual organization** — move, delete, or rename files right inside the viewer  
-- 📁 **Broad format support** — `.jpg`, `.png`, `.bmp`, `.gif`, `.webp`, `.avif`, and more  
-- 🎨 **Dark and minimal interface** built with Python  
-- 💾 **Completely portable** — unzip and use directly  
+PICorg loads images almost instantly faster than Windows native Photos App and gives you complete control over sorting, renaming, and managing your Visual Library.
+
+- 🔍 **Smooth image viewing** — scroll or use arrow keys for quick navigation
+- 🧹 **Visual organization** — move or delete Images right inside the viewer
+- 📁 **Broad format support** — `.jpg`, `.png`, `.bmp`, `.gif`, `.webp`, `.avif`, and more
+- 🎨 **Dark and minimal interface**
+- 💾 **Completely portable** — unzip and use directly
 
 ---
 
-### 🪄 Why Choose Caxuo PICorg?
-- No installation needed — just **download, unzip, and run**
-- Works **fully offline**
+### 🛠️ Quick Start Guide
+
+1. 📥 Download & unzip the package (keep in a folder other than Desktop)
+2. 📂 Browse Images straight Away
+3. ⚙️ Create Image Format associations for making Caxuo PICorg as defualt Viewer
+4. 🎛️ Start Organizing the Image by popping up the Folder organizer button
+5. 📤 Rename the Folder buttons to suit to your desired Album name
+
+---
+
+### 🪄 Advantages - Why Choose Caxuo PICorg?
+
+- 
+- 
 - **No telemetry, no ads, no bloat**
 - Opens folders with **thousands of images** effortlessly
 - 100% **Free and Open Source**
+
+- 🧩 No installation needed — just **download, unzip, and run**
+- 🚀 Free to use, Lightweight & portable — no installation needed  
+- 💻 Works 100% offline (No Adware or Bloatware)
+- ⏹️ Opens folders with **thousands of images** effortlessly
+- 📊 Open Multiple images at Once
 
 ---
 
@@ -62,4 +69,4 @@ PICorg loads images almost instantly and gives you complete control over sorting
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
+👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
