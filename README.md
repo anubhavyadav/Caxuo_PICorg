@@ -5,7 +5,7 @@
 <h2 align="center">🖼️ Caxuo PICorg for Windows</h2>
 
 <p align="center">
-  <em>Fast and Free Image Viewer & Organizer — a better alternative to Windows Photos</em>
+  <em>Fast and Free Image Viewer & Organizer — a better alternative to Windows Photos.</em>
 </p>
 
 ---
@@ -43,13 +43,18 @@ PICorg loads images almost instantly faster than Windows native Photos App and g
 
 ---
 
-### 🪄 Advantages - Why Choose Caxuo PICorg?
+### 🪄 Advantages - Why Choose Caxuo PICorg as your default Image Viewer?
 
-- 🧩 No installation needed — just **download, unzip, and run**
-- 🚀 Free to use, Lightweight & portable — no installation needed  
-- 💻 Works 100% offline (No Adware or Bloatware)
-- ⏹️ Opens folders with **thousands of images** effortlessly
+- 🚀 Free to use, Fast & lightweight — no installation required - just **download, unzip, and run**.
+- 💻 Works 100% offline (No Adware or Bloatware).
+- 🧩 Supports **JPG**, **PNG**, **WEBP**, **BMP**, **AVIF** Image Formats.
+- ⚡ Works instantly with folders containing **thousands of images** with fast refresh of Image list. 
+- 🗂️ Quick Image organizing with custom named Colored buttons  
+- 🧹 Safe deletion to custom folder (not Recycle Bin)  
+- 🔁 Auto-refresh after each operation  
+- 💬 WhatsApp Web sharing support
 - 📊 Open Multiple images at Once
+- 🗑️ To remove the app, simply delete its unzipped folder.
 
 ---
 
