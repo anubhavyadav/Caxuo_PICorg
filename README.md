@@ -16,7 +16,7 @@
 
 ### 💡 About Caxuo PICorg App
 
-**Caxuo PICorg** is a modern and portable Image Viewer and Organizer built to manage thousands of Images on your computer in the Album Collection you wish quickly — perfect for photographers, content creators, or anyone dealing with large image collections.
+- **Caxuo PICorg** is a modern and portable Image Viewer and Organizer built to manage thousands of Images on your computer in the Album Collection you wish quickly — perfect for photographers, content creators, or anyone dealing with large image collections.
 
 <p align="center">
   <img width="602" alt="Caxuo PICorg App Home Screen" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
