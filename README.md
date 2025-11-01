@@ -10,7 +10,7 @@
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
 
 ---
 
@@ -33,16 +33,6 @@ PICorg loads images almost instantly faster than Windows native Photos App and g
 
 ---
 
-### 🛠️ Quick Start Guide
-
-1. 📥 Download & unzip the package (keep in a folder other than Desktop)
-2. 📂 Browse Images straight Away
-3. ⚙️ Create Image Format associations for making Caxuo PICorg as defualt Viewer
-4. 🎛️ Start Organizing the Image by popping up the Folder organizer buttons
-5. 📤 Rename the Folder buttons to suit to your desired Album name
-
----
-
 ### 🪄 Advantages - Why Choose Caxuo PICorg as your default Image Viewer?
 
 - 🚀 Free to use, Fast & lightweight — no installation required - just **download, unzip, and run**.
@@ -54,7 +44,7 @@ PICorg loads images almost instantly faster than Windows native Photos App and g
 - 🔁 Auto-refresh after each operation  
 - 💬 WhatsApp Web sharing support
 - 📊 Open Multiple images at Once
-- 🗑️ To remove the app, simply delete its unzipped folder.
+- 💻 Easily Remove the App from your Computer - just Delete its unzipped Folder (No uninstallation required).
 
 ---
 
@@ -68,4 +58,4 @@ PICorg loads images almost instantly faster than Windows native Photos App and g
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICorg/releases/latest
