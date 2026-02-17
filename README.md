@@ -16,7 +16,7 @@
 
 ### 💡 About the App
 
-- **Caxuo PICorg** is a modern and portable Image Viewer and Organizer built to manage thousands of Images on your computer in the Album Collection you wish quickly — perfect for photographers, content creators, or anyone dealing with large image collections.
+- **Caxuo PICorg** is a modern and portable Image Viewer and Organizer built to manage thousands of Images on your computer in the Album Collection of your wish quickly — perfect for photographers, content creators, or anyone dealing with large image collections.
 
 <p align="center">
   <img width="602" alt="Caxuo PICorg App Home Screen Layout" src="https://github.com/user-attachments/assets/a0dab46d-5fd4-4475-bbfe-034520dce369"/>
@@ -39,11 +39,11 @@ PICorg loads images almost instantly faster than Windows native Photos App and g
 - 💻 Works 100% offline (No Adware or Bloatware).
 - 🧩 Supports **JPG**, **PNG**, **WEBP**, **BMP**, **AVIF** Image Formats.
 - ⚡ Works instantly with folders containing **thousands of images** with fast refresh of Image list. 
-- 🗂️ Quick Image organizing with custom named Colored buttons  
-- 🧹 Safe deletion to custom folder (not Recycle Bin)  
-- 🔁 Auto-refresh after each operation  
-- 💬 WhatsApp Web sharing support
-- 📊 Open Multiple images at Once
+- 🗂️ Quick Image organizing with custom named Colored buttons.
+- 🧹 Safe deletion to custom folder (not Recycle Bin).
+- 🔁 Auto-refresh after each operation.
+- 💬 WhatsApp Web sharing support.
+- 📊 Open Multiple images at Once.  
 - 💻 Easily Remove the App from your Computer - just Delete its unzipped Folder (No uninstallation required).
 
 ---
